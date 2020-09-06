@@ -18,13 +18,13 @@ class Directory extends React.Component {
                   title: 'Jackets',
                   imageUrl: 'http://4.bp.blogspot.com/-Oal-4URQG_4/Th1JXxAUxtI/AAAAAAAAAnM/bf6EIImYyiA/s1600/zara-homme-hiver-2010-2011-2.jpg',
                   id: 2,
-                  linkUrl: ''
+                  linkUrl: 'jackets'
                 },
                 {
                   title: 'Sneakers',
                   imageUrl: 'https://media.gqindia.com/wp-content/uploads/2016/05/GQ-India-GUCCI-414684_KW040_8162.jpg',
                   id: 3,
-                  linkUrl: ''
+                  linkUrl: 'sneaker'
                 },
                 {
                   title: 'Womens',
