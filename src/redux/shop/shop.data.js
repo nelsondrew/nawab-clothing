@@ -68,7 +68,7 @@ const SHOP_DATA = [
       {
         id: 10,
         name: 'Adidas NMD',
-        imageUrl: 'https://i.ibb.co/0s3pdnc/adidas-nmd.png',
+        imageUrl: "https://static.zara.net/photos///2020/I/1/2/p/2209/620/001/2/w/375/2209620001_1_1_1.jpg?ts=1593767339705",
         price: 220
       },
       {
