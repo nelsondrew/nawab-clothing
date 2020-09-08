@@ -9,24 +9,24 @@ import CartItem from '../../components/cart-item/cart-item.component';
 const CheckoutPage = ({cartItems , total}) => (
     <div className='checkout-page'>
        <div className='checkout-header'>
-          <div classname='header-block'>
+          <div className='header-block'>
               <span>Product</span>
           </div>
 
-          <div classname='header-block'>
+          <div className='header-block'>
               <span>Description</span>
           </div>
 
-          <div classname='header-block'>
+          <div className='header-block'>
               <span>Quantity</span>
           </div>
 
-          <div classname='header-block'>
+          <div className='header-block'>
               <span>Price</span>
           </div>
 
           
-          <div classname='header-block'>
+          <div className='header-block'>
               <span>Remove</span>
           </div>
           
