@@ -1,4 +1,3 @@
-  
 import React from 'react';
 import { connect } from 'react-redux';
 
@@ -25,6 +24,5 @@ const CollectionPage = ({ collection }) => {
 const mapStateToProps = (state, ownProps) => ({
   collection: selectCollection(ownProps.match.params.collectionId)(state)
 });
-
 
 export default connect(mapStateToProps)(CollectionPage);

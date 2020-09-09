@@ -2,7 +2,7 @@ const INITIAL_STATE ={
     sections : [
         {
           title: 'Hats',
-          imageUrl: 'https://i0.wp.com/gentlemanzone.com/wp-content/uploads/2018/01/guide-hats-min.jpg?fit=1599%2C900&ssl=1',
+          imageUrl: 'http://images.amcnetworks.com/bbcamerica.com/wp-content/uploads/2016/05/anglo_2000x1125_peakyblinders.jpg',
           id: 1,
           linkUrl: 'shop/hats'
         },
