@@ -34,7 +34,7 @@
   .price {
     width: 23%;
     @media screen and (max-width: 800px) {
-     
+      display: inline;
       justify-content: space-between;
     }
   }
