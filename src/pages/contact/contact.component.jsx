@@ -85,6 +85,7 @@ class ContactPage extends React.Component {
             />
           <CustomButton type='submit'>Contact us, we will be in touch with you Shortly</CustomButton>
           </form>
+          <div>Dev credits -Amaan Nawab</div>
         </div>
       );
     }
