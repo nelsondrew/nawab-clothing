@@ -8,6 +8,7 @@ export const DirectoryMenuContainer = styled.div`
   @media screen and (max-width: 800px) {
     align-items: center;
     display: grid;
+    margin-right: 85px;
     grid-template-columns: 1.5fr;
     grid-gap: 15px;
 `;
