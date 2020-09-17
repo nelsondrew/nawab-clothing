@@ -8,20 +8,22 @@ export const HeaderContainer = styled.div`
   justify-content: space-between;
   margin-bottom: 25px;
   @media screen and (max-width: 800px) {
-    height: 80px;
+    height: 10px;
     padding: 10px;
-    margin-bottom: 20px;
-    padding-top: 50px;
+    margin-bottom: 40px;
+    padding-top: 30px;
   }
 `;
 
 export const LogoContainer = styled(Link)`
   height: 100%;
   width: 70px;
+  
   padding: 25px;
   @media screen and (max-width: 800px) {
-    width: 40px;
-    height : 20px;
+    width: 20px;
+    height : 10px;
+    
     padding: 0;
   }
 `;

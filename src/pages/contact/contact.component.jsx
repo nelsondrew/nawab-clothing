@@ -53,7 +53,7 @@ class ContactPage extends React.Component {
           <form className='sign-up-form' onSubmit={this.handleSubmit}>
             <FormInput
               type='text'
-              name='displayName'
+              name='Name'
               value={Name}
               onChange={this.handleChange}
               label='Name'
